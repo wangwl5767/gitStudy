@@ -1,6 +1,10 @@
 hello world
 secondline
 thid line
+<<<<<<< HEAD
 develop brch11
 bugfix branch
 develop teset
+=======
+branch test
+>>>>>>> origin
